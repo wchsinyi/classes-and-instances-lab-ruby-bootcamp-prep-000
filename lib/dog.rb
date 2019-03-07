@@ -5,4 +5,6 @@ fido = Dog.new
 
 snoopy = Dog.new
 
-snoopy == fido #=>
+lassie = Dog.new 
+
+
